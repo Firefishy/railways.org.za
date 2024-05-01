@@ -246,7 +246,7 @@ https://www.facebook.com/CommuterTransportEngineering/
 ### Work in Progress ###
 Work in progress list of website that should be categorised and put into suitable categories.
 
-https://www.friendsofthechoo-tjoe.co.za/
+https://web.archive.org/web/20230410171914/https://www.friendsofthechoo-tjoe.co.za/
 
 https://www.thehobbyshop.co.za/clubs.html
 
