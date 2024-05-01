@@ -28,6 +28,10 @@ title: Welcome to railways.org.za
    - [Website](https://www.ceresrail.co.za/)
    - Scenic routes through the Western Cape aboard beautifully restored steam trains.
 
+4. **Wonder Steam Trains** - Hermanstad, Pretoria
+   - [Website](https://www.wondersteamtrains.co.za/)
+   - [Facebook](https://www.facebook.com/profile.php?id=100055718366560)
+
 5. **Rovos Rail**
    - [Website](https://rovos.com/)
    - Luxury train journeys across Southern Africa, offering an unforgettable travel experience.
@@ -58,11 +62,16 @@ title: Welcome to railways.org.za
    - A family-friendly miniature railway experience amidst Stellenbosch's vineyards.
 
 5. **Rand Society of Model Engineers (RSME)** - Johannesburg
+   - [Facebook](https://www.facebook.com/RandSocietyofModelEngineers/)
    - Miniature train rides and a community of model engineering enthusiasts.
 
 6. **Western Province Live Steamers** - Cape Town
    - [Facebook Page](https://www.facebook.com/westernprovincelivesteamers/)
    - Dedicated to live steam model engineering with scale model locomotive operations.
+
+7. **Centurion Society of Model Engineers'** - Centurion
+   - [Website](https://www.centuriontrains.com/)
+   - [Facebook](https://www.facebook.com/groups/486081302082525/)
 
 ### Museums
 
@@ -73,11 +82,16 @@ title: Welcome to railways.org.za
 2. **Umgeni Steam Railway Museum** - Kloof, near Durban
    - Offers steam train rides and preserves railway heritage.
 
-3. **Transnet Heritage Foundation (Kimberley)**
+3. **Kimberley Transport Museum / Transnet Heritage Foundation** - Kimberley
    - Manages the preservation of South Africa's railway heritage, including museums and historical collections.
+   - Located at the Kimberley Railway station. -28.7359650, 24.7697768
 
-4. **The Uitenhage Old Railway Station Museum**
+4. **The Uitenhage Old Railway Station Museum** - Uitenhage
    - [Website](https://uitenhagemuseum.co.za/old-railway-station/)
+
+5. **Hilton Steam Heritage Association** - Hilton, Pietermaritzburg
+  - [Website](https://www.hiltontrains.co.za/)
+  - [Facebook](https://www.facebook.com/profile.php?id=100075781669784)
 
 
 ### Model Railways (Hobby)
@@ -293,9 +307,6 @@ https://www.facebook.com/groups/209563223167689
 Umgeni Steam Railway
 https://www.facebook.com/groups/170162835394
 
-Centurion Society of Model Engineers' Supporters Group
-https://www.facebook.com/groups/486081302082525/
-
 Choo-Tjoe railway line repairs
 https://www.facebook.com/groups/2792895680961552/
 
@@ -324,13 +335,6 @@ Railway Society of Southern Africa
 https://umgenisteamrailway.com/RSSA/AboutRSSA.aspx
 The Railway Society of Southern Africa was established in 1960, mainly for the benefit of a small group of steam train photographers living in Johannesburg and Cape Town.  However, over the years the Society has grown tremendously and branches opened in other centres around the country.  At one stage the Railway Society's membership had expanded to almost 1 000 members, about one quarter of whom were resident overseas.
 
-https://www.wondersteamtrains.co.za/
-https://www.facebook.com/profile.php?id=100055718366560
-Hermanstad, Pretoria
-
-Hilton Steam Heritage Association
-https://www.hiltontrains.co.za/
-https://www.facebook.com/profile.php?id=100075781669784
 
 https://sites.google.com/site/soulorailway/soul-of-a-railway
 
