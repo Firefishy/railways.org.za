@@ -73,13 +73,10 @@ title: Welcome to railways.org.za
 2. **Umgeni Steam Railway Museum** - Kloof, near Durban
    - Offers steam train rides and preserves railway heritage.
 
-3. **The Railway Museum of South Africa** - Johannesburg
-   - Houses a collection of historical trains and railway memorabilia.
-
-4. **Transnet Heritage Foundation (Kimberley)**
+3. **Transnet Heritage Foundation (Kimberley)**
    - Manages the preservation of South Africa's railway heritage, including museums and historical collections.
 
-5. **The Uitenhage Old Railway Station Museum**
+4. **The Uitenhage Old Railway Station Museum**
    - [Website](https://uitenhagemuseum.co.za/old-railway-station/)
 
 
