@@ -13,8 +13,7 @@ title: Welcome to railways.org.za
    - Offers scenic steam train rides, celebrating Durban's railway heritage.
 
 2. **Sandstone Heritage Trust** -
-   - [Website](https://scrail.co.za/)
-   - Vintage steam trains in the heart of the Garden Route for a unique experience.
+   - [Website](https://www.sandstone-estates.com/)
 
 2. **Atlantic Railway** - Mossel Bay
    - [Website](https://scrail.co.za/)
