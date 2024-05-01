@@ -5,19 +5,20 @@ title: Welcome to railways.org.za
 
 # Welcome to the South African railways index.
 
+
 ### Classic Railway Adventures
 
 1. **Umgeni Steam Railway** - Durban
    - [Website](https://www.umgenisteamrailway.com/)
    - Offers scenic steam train rides, celebrating Durban's railway heritage.
 
-2. **Sandstone Heritage Trust** - 
+2. **Sandstone Heritage Trust** -
    - [Website](https://scrail.co.za/)
    - Vintage steam trains in the heart of the Garden Route for a unique experience.
 
-2. **Southern Cape Railway** - Mossel Bay
+2. **Atlantic Railway** - Mossel Bay
    - [Website](https://scrail.co.za/)
-   - Vintage steam trains in the heart of the Garden Route for a unique experience.
+   - Vintage steam trains in the heart of the Garden Route for a unique experience. Previously known as: Southern Cape Railway
 
 3. **New Cape Central Railway** - Robertson
    - [Website](https://nccr.co.za/)
@@ -60,6 +61,7 @@ title: Welcome to railways.org.za
    - Miniature train rides and a community of model engineering enthusiasts.
 
 6. **Western Province Live Steamers** - Cape Town
+   - [Facebook Page](https://www.facebook.com/westernprovincelivesteamers/)
    - Dedicated to live steam model engineering with scale model locomotive operations.
 
 ### Museums
@@ -74,18 +76,15 @@ title: Welcome to railways.org.za
 3. **The Railway Museum of South Africa** - Johannesburg
    - Houses a collection of historical trains and railway memorabilia.
 
-4. **Outeniqua Transport Museum (George)**
+4. **Transnet Heritage Foundation (Kimberley)**
    - Manages the preservation of South Africa's railway heritage, including museums and historical collections.
 
-5. **Transnet Heritage Foundation (Kimberley)**
-   - Manages the preservation of South Africa's railway heritage, including museums and historical collections.
-
-6. **The Uitenhage Old Railway Station Museum**
+5. **The Uitenhage Old Railway Station Museum**
    - [Website](https://uitenhagemuseum.co.za/old-railway-station/)
 
 
 ### Model Railways (Hobby)
-TBC.
+In South Africa, model railway enthusiasts are particularly fond of the 3.5mm and 7mm scales, equivalent to the global HO/OO and O gauges. They often gather in clubs and associations to exchange ideas and exhibit their intricate layouts, which typically feature iconic elements such as the Blue Train and detailed models of South African Railways locomotives. These miniatures often showcase the diverse South African landscapes, including the rolling hills of the Cape and the expansive Karoo, reflecting the country's rich railway history.
 
 * https://www.facebook.com/CMDModels
 * https://www.dreamtrains.co.za/
@@ -102,8 +101,9 @@ TBC.
 * https://www.mte.co.za/
 * https://www.youtube.com/@CMDModels1
 
-
 ### Specialized Groups and Tours
+
+South Africa is a prime destination for railway enthusiasts and photographers, especially those drawn to steam locomotives. The country's railroads cut through diverse landscapes, from the dramatic Drakensberg Mountains to the lush Cape vineyards, offering spectacular photo opportunities and a deep dive into steam railway heritage. This makes South Africa an essential visit for train lovers worldwide.
 
 1. **FarRail Tours**
    - [Website](https://www.farrail.com/)
@@ -115,18 +115,128 @@ TBC.
 3. **Reefsteamers**
    - Weekend steam train trips from Johannesburg to Magaliesburg.
 
-4. **~~Atlantic Rail~~**
-   - ~~Steam train excursions from Cape Town to Simon's Town, showcasing the Atlantic seaboard.~~ Closed down. See Ceres Rail as an alternative.
-
-5. **~~Geoff's Trains~~**
+4. **~~Geoff's Trains~~**
    - ~~http://www.geoffs-trains.com/~~ (closed 2023)
 
+5. https://www.afrisuntravel.com/ Formerly a South African Railways specialist travel agency.
+
+
+### Youtube
+* https://www.youtube.com/@EverythingTrains95
+* https://www.youtube.com/@bonganimkhwanazi6485/featured
+* https://www.youtube.com/@marval44011
+* https://www.youtube.com/@lespivnic
+* https://www.youtube.com/@steamfreak
+* https://www.youtube.com/@rooihonda
+* https://www.youtube.com/@vuurhoutjiear9358
+* https://www.youtube.com/@grogz11
+* https://www.youtube.com/@paulash7993
+
+
+* https://www.youtube.com/@Martin4982
+* https://www.youtube.com/@WayneSA85
+* https://www.youtube.com/@transnamibnel/
+* https://www.youtube.com/@fanie747
+* https://www.youtube.com/@johanfourie5228
+* https://www.youtube.com/@steamlocosyd7796
+* https://www.youtube.com/@Adventurescot
+* https://www.youtube.com/@Witput
+* https://www.youtube.com/@reeselourens1459
+* https://www.youtube.com/@ChrisMunnik
+* https://www.youtube.com/@alanmiddleditch5696
+* https://www.youtube.com/@golrush007
+* https://www.youtube.com/@Martin4982
+* https://www.youtube.com/@mccarthyam
+* https://www.youtube.com/@theovanstaden5766
+* https://www.youtube.com/@jacomarais1976
+
+### Gautrain
+* https://www.gautrain.co.za/
+
+
+### Passenger Rail Agency of South Africa (PRASA)
+* http://www.shosholozameyl.co.za/
+* https://res.prasa.com/shosholozameyl/Booking
+* https://www.prasa.com/
+* "Main Line Passenger Service" https://www.facebook.com/ServicesMLPS/posts/
+* http://www.premierclasse.co.za/
+
+### Transnet (Freight Rail Operator)
+* https://www.transnet.net/
+* https://twitter.com/follow_transnet
+* https://twitter.com/ReliableTFR
+* https://www.transnetfreightrail-tfr.net/
+* https://twitter.com/TE_Transnet
+* https://twitter.com/Transnet_GC
+* https://www.transnetfreightrail.co.za/
+* http://www.spoornet.co.za/
+
+### Railway Safety Regulator (South Africa)
+
+https://www.rsr.org.za/
+
+### Photography
+
+* https://www.steamtrain.co.za/
+* https://www.flickr.com/photos/sasteam/
+* https://www.flickr.com/photos/hilton-t/
+* https://www.flickr.com/photos/sar_connecta/
+* https://www.flickr.com/photos/31888895@N02/
+* https://www.flickr.com/groups/1150382@N22/
+* https://www.flickr.com/groups/1240369@N25/
+
+### Rail Lease and Maintenace
+
+https://traxtion.africa/
+Traxtion Africa is a leading provider of comprehensive rail services across Africa, specializing in rail solutions including the operation and leasing of locomotives, rail freight, and infrastructure projects. With over three decades of experience, the company boasts a significant presence in Sub-Saharan Africa, underscored by a commitment to innovation, safety, and the development of the rail sector​.
+
+https://www.grindrod.com/
+
+### Rail Magazines
+
+https://www.railways.africa/
+Railways Africa is the Authoritative Magazine for the rail industry in Africa.
+
+SA rail : official journal of the Railway Society of Southern Africa
+https://www.facebook.com/SteamTours
+
+### Rail Manufacturing
+
+https://www.gibela-rail.com/
+https://www.linkedin.com/company/gibela-rail-transport-consortium/
+South African Consortium of Alstom and Ubambano Rail.
+Major manufacturing contract with PRASA for X'Trapolis EMUs trains.
+https://en.wikipedia.org/wiki/X%27Trapolis_Mega
+
+Union Carriage & Wagon (now CTE Group)
+https://web.archive.org/web/20140517013319/http://ucw.co.za/
+Touws River
+https://ctegroup.co.za/
+https://www.facebook.com/CommuterTransportEngineering/
+
+### Wikipedia
+
+* https://en.wikipedia.org/wiki/Paton%27s_Country_Narrow_Gauge_Railway
+* https://en.wikipedia.org/wiki/Alfred_County_Railway
+* https://en.wikipedia.org/wiki/List_of_South_African_locomotive_classes
+* https://en.wikipedia.org/wiki/South_African_locomotive_numbering_and_classification
+* https://en.wikipedia.org/wiki/Outeniqua_Transport_Museum
+* https://en.wikipedia.org/wiki/Sandstone_Estates
+* https://en.wikipedia.org/wiki/Umgeni_Steam_Railway
+* https://en.wikipedia.org/wiki/Rovos_Rail
+* https://en.wikipedia.org/wiki/Blue_Train_(South_Africa)
+* https://en.wikipedia.org/wiki/Shosholoza_Meyl
+* https://en.wikipedia.org/wiki/Passenger_Rail_Agency_of_South_Africa
+* https://en.wikipedia.org/wiki/Transnet
+* https://en.wikipedia.org/wiki/Transnet_Freight_Rail
+* https://en.wikipedia.org/wiki/Transnet_Engineering
 
 
 ### Work in Progress ###
-
+Work in progress list of website that should be categorised and put into suitable categories.
 
 https://www.friendsofthechoo-tjoe.co.za/
+
 https://www.thehobbyshop.co.za/clubs.html
 
 Footplate memories
@@ -210,7 +320,6 @@ https://www.facebook.com/groups/497761300737192/
 South African Railways H0 16.5mm
 https://www.facebook.com/groups/461937273885626/
 
-
 Reefsteamers
 1991 - 14.12.2019
 
@@ -230,124 +339,22 @@ https://sites.google.com/site/soulorailway/soul-of-a-railway
 
 https://drisa.co.za/
 
-
 https://www.railpictures.net/showphotos.php?country=South%20Africa
 
-Eshayamoya Express - Patons Country Railways - Creighton 
+Eshayamoya Express - Patons Country Railways - Creighton
 Aloe Steam Train
 https://www.facebook.com/creightonsteamtrain
 rayna@futurenet.co.za 0828797869
 
-
 https://www.outeniquachootjoe.com/
+Group working to get the Outeniqua Choo Tjoe revived.
+
+https://www.friendsoftherail.com/forum
+Online forum for discussion of South African and African railways.
 
 Piet Conradie:
 https://steam-locomotives-south-africa.blogspot.com/
 https://www.youtube.com/@RAILFANinSOUTHAFRICA/
 https://randomrailwayimages.blogspot.com/
 
-https://www.youtube.com/@EverythingTrains95
-https://www.youtube.com/@bonganimkhwanazi6485/featured
-https://www.youtube.com/@marval44011
-https://www.youtube.com/@lespivnic
-https://www.youtube.com/@steamfreak
-https://www.youtube.com/@rooihonda
-https://www.youtube.com/@vuurhoutjiear9358
-https://www.youtube.com/@grogz11
-https://www.youtube.com/@paulash7993
-
-
-https://www.youtube.com/@Martin4982
-https://www.youtube.com/@WayneSA85
-https://www.youtube.com/@transnamibnel/
-https://www.youtube.com/@fanie747
-https://www.youtube.com/@johanfourie5228
-https://www.youtube.com/@steamlocosyd7796
-https://www.youtube.com/@Adventurescot
-https://www.youtube.com/@Witput
-https://www.youtube.com/@reeselourens1459
-https://www.youtube.com/@ChrisMunnik
-https://www.youtube.com/@alanmiddleditch5696
-https://www.youtube.com/@golrush007
-https://www.youtube.com/@Martin4982
-https://www.youtube.com/@mccarthyam
-https://www.youtube.com/@theovanstaden5766
-https://www.youtube.com/@jacomarais1976
-
-
-http://www.shosholozameyl.co.za/
-https://res.prasa.com/shosholozameyl/Booking
-https://www.prasa.com/
-https://www.facebook.com/ServicesMLPS/posts/
-"Main Line Passenger Service"
-http://www.premierclasse.co.za/
-
-
-https://www.transnet.net/
-https://twitter.com/follow_transnet
-https://twitter.com/ReliableTFR
-https://www.transnetfreightrail-tfr.net/
-
-https://twitter.com/TE_Transnet
-https://twitter.com/Transnet_GC
-
-
-https://www.rsr.org.za/
-
-
-https://www.transnetfreightrail.co.za/
-http://www.spoornet.co.za/
-
-
-https://www.steamtrain.co.za/
-
-https://www.flickr.com/photos/sasteam/
-https://www.flickr.com/photos/hilton-t/
-
-https://www.flickr.com/photos/sar_connecta/
-https://www.flickr.com/photos/31888895@N02/
-https://www.flickr.com/groups/1150382@N22/
-https://www.flickr.com/groups/1240369@N25/
-
-https://traxtion.africa/
-Traxtion Africa is a leading provider of comprehensive rail services across Africa, specializing in rail solutions including the operation and leasing of locomotives, rail freight, and infrastructure projects. With over three decades of experience, the company boasts a significant presence in Sub-Saharan Africa, underscored by a commitment to innovation, safety, and the development of the rail sector​.
-
-https://www.grindrod.com/
-
-https://www.railways.africa/
-Railways Africa is the Authoritative Magazine for the rail industry in Africa.
-
-https://www.gibela-rail.com/
-https://www.linkedin.com/company/gibela-rail-transport-consortium/
-South African Consortium of Alstom and Ubambano Rail.
-Major manufacturing contract with PRASA for X'Trapolis EMUs trains.
-https://en.wikipedia.org/wiki/X%27Trapolis_Mega
-
-Union Carriage & Wagon (now CTE Group)
-https://web.archive.org/web/20140517013319/http://ucw.co.za/
-
-Touws River
-https://ctegroup.co.za/
-https://www.facebook.com/CommuterTransportEngineering/
-
-https://www.gautrain.co.za/
-
-SA rail : official journal of the Railway Society of Southern Africa
-https://www.facebook.com/SteamTours
-
-
-https://en.wikipedia.org/wiki/Paton%27s_Country_Narrow_Gauge_Railway
-https://en.wikipedia.org/wiki/Alfred_County_Railway
-https://en.wikipedia.org/wiki/List_of_South_African_locomotive_classes
-https://en.wikipedia.org/wiki/South_African_locomotive_numbering_and_classification
-https://en.wikipedia.org/wiki/Outeniqua_Transport_Museum
-https://en.wikipedia.org/wiki/Sandstone_Estates
-https://en.wikipedia.org/wiki/Umgeni_Steam_Railway
-https://en.wikipedia.org/wiki/Rovos_Rail
-https://en.wikipedia.org/wiki/Blue_Train_(South_Africa)
-https://en.wikipedia.org/wiki/Shosholoza_Meyl
-https://en.wikipedia.org/wiki/Passenger_Rail_Agency_of_South_Africa
-https://en.wikipedia.org/wiki/Transnet
-https://en.wikipedia.org/wiki/Transnet_Freight_Rail
-https://en.wikipedia.org/wiki/Transnet_Engineering
-
+https://www.seat61.com/SouthAfrica.htm
