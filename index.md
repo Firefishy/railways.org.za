@@ -71,6 +71,10 @@ title: Welcome to railways.org.za
 7. **Centurion Society of Model Engineers'** - Centurion
    - [Website](https://www.centuriontrains.com/)
    - [Facebook](https://www.facebook.com/groups/486081302082525/)
+  
+8. **Modenso Treintjie Klub** - Bloemfontein
+   - [Facebook](https://www.facebook.com/profile.php?id=100054283219704)
+   - Open to Public: Every Sunday 14:00 - 17:00 (weather permitting)
 
 ### Museums
 
