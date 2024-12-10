@@ -75,6 +75,9 @@ title: Welcome to railways.org.za
 8. **Modenso Treintjie Klub** - Bloemfontein
    - [Facebook](https://www.facebook.com/profile.php?id=100054283219704)
    - Open to Public: Every Sunday 14:00 - 17:00 (weather permitting)
+  
+9. **The (Mini) Blue Train Park** - Cape Town (Sea Point)
+   - [Website](https://thebluetrainpark.co.za/)
 
 ### Museums
 
