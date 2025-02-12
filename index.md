@@ -78,6 +78,11 @@ title: Welcome to railways.org.za
   
 9. **The (Mini) Blue Train Park** - Cape Town (Sea Point)
    - [Website](https://thebluetrainpark.co.za/)
+  
+10. **East London Model Engineering Society** - East London
+    - [Facebook](https://www.facebook.com/elmodeltrains)
+    - [Website](https://eltrains.co.za/)
+    - Public Running every 2nd Sunday of the month from 10am to 12h30.
 
 ### Museums
 
