@@ -60,26 +60,26 @@ title: Welcome to railways.org.za
    - [Website](https://www.winelandsrail.co.za/)
    - A family-friendly miniature railway experience amidst Stellenbosch's vineyards.
 
-5. **Rand Society of Model Engineers (RSME)** - Johannesburg
+4. **Rand Society of Model Engineers (RSME)** - Johannesburg
    - [Facebook](https://www.facebook.com/RandSocietyofModelEngineers/)
    - Miniature train rides and a community of model engineering enthusiasts.
 
-6. **Western Province Live Steamers** - Cape Town
+5. **Western Province Live Steamers** - Cape Town
    - [Facebook Page](https://www.facebook.com/westernprovincelivesteamers/)
    - Dedicated to live steam model engineering with scale model locomotive operations.
 
-7. **Centurion Society of Model Engineers'** - Centurion
+6. **Centurion Society of Model Engineers'** - Centurion
    - [Website](https://www.centuriontrains.com/)
    - [Facebook](https://www.facebook.com/groups/486081302082525/)
   
-8. **Modenso Treintjie Klub** - Bloemfontein
+7. **Modenso Treintjie Klub** - Bloemfontein
    - [Facebook](https://www.facebook.com/profile.php?id=100054283219704)
    - Open to Public: Every Sunday 14:00 - 17:00 (weather permitting)
   
-9. **The (Mini) Blue Train Park** - Cape Town (Sea Point)
+8. **The (Mini) Blue Train Park** - Cape Town (Sea Point)
    - [Website](https://thebluetrainpark.co.za/)
   
-10. **East London Model Engineering Society** - East London
+9. **East London Model Engineering Society** - East London
     - [Facebook](https://www.facebook.com/elmodeltrains)
     - [Website](https://eltrains.co.za/)
     - Public Running every 2nd Sunday of the month from 10am to 12h30.
